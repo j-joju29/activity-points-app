@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "AD24037",
+    "password": "joel2026",
+    "name": "Joel Joju",
+    "department": "AI & Data Science",
+    "semester": 5,
+    "targetPoints": 100
+  },
+  {
+    "uid": "AD24012",
+    "password": "demo1234",
+    "name": "Anjali Menon",
+    "department": "AI & Data Science",
+    "semester": 5,
+    "targetPoints": 100
+  }
+]

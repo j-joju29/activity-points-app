@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "uid": "AD24037",
+    "title": "Smart India Hackathon 2026",
+    "category": "technical",
+    "date": "2026-08-14",
+    "description": "Built a computer-vision prototype for the finals as part of a 6-member team.",
+    "pointsClaimed": 20,
+    "pointsApproved": 20,
+    "status": "Approved"
+  },
+  {
+    "id": 2,
+    "uid": "AD24037",
+    "title": "Inter-College Badminton Tournament",
+    "category": "sports",
+    "date": "2026-07-02",
+    "description": "Represented the college in the doubles category, reached the semi-final.",
+    "pointsClaimed": 10,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": 3,
+    "uid": "AD24037",
+    "title": "NSS Blood Donation Camp",
+    "category": "social",
+    "date": "2026-06-20",
+    "description": "Volunteered for registration and logistics at the campus blood donation drive.",
+    "pointsClaimed": 8,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "uid": "AD24037",
+    "title": "Startup Pitch Fest",
+    "category": "entrepreneurship",
+    "date": "2026-05-11",
+    "description": "Pitched an idea for a campus food-waste tracking app; shortlisted for round 2.",
+    "pointsClaimed": 15,
+    "pointsApproved": 0,
+    "status": "Rejected"
+  },
+  {
+    "id": 5,
+    "uid": "AD24012",
+    "title": "College Cultural Fest - Dance",
+    "category": "cultural",
+    "date": "2026-08-01",
+    "description": "Performed in the group dance event at the annual cultural fest.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  }
+]

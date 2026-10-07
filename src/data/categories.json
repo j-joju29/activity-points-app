@@ -1,0 +1,8 @@
+[
+  { "id": "technical", "name": "Technical / Professional", "description": "Hackathons, workshops, certifications, paper presentations", "color": "#4A5578" },
+  { "id": "sports", "name": "Sports", "description": "Inter-college tournaments, university-level sports events", "color": "#2E7D5B" },
+  { "id": "cultural", "name": "Cultural", "description": "Fine arts, music, dance, drama and other cultural events", "color": "#C9A227" },
+  { "id": "social", "name": "Social Service", "description": "NSS, NCC, community outreach, volunteering", "color": "#B23A3A" },
+  { "id": "entrepreneurship", "name": "Entrepreneurship", "description": "Startup competitions, business plan events, incubation activities", "color": "#7A4FB5" },
+  { "id": "leadership", "name": "Leadership", "description": "Club office-bearer roles, event coordination, student council", "color": "#1B2340" }
+]
